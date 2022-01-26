@@ -1,2 +1,3 @@
 # Adversarial_Attack_ML
-Enhancing Adversarial Attack Methods  Against Machine Learning Models Using  Similarity Index Measures  
+Enhancing Adversarial Attack Methods Against Machine Learning Models Using Similarity Index Measures.
+Adversarial  examples  are  inputs  that  are  purposefully  constructed  to  cause  a  neural  network  to misclassify them. The challenge in generating these inputs using non-gradient-based methods is the lack  of  efficiency  in  terms  of  execution  time  and  performance. An improvement is proposed  using  Structural  Similarity  Index  Measure  (SSIM)  and  Information  theoretic-based Statistic Similarity Measure (ISSM) on different non-gradient-based methods including methods based on  fuzzing and  genetics algorithms.
